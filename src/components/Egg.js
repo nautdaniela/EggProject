@@ -1,4 +1,5 @@
-import React from 'react';
+import React, {useState} from 'react';
+
 
 // Realizati o noua componenta care sa aiba un input
 //  pentru numar de oua. componenta aceasta este 
