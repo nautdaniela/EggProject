@@ -1,10 +1,13 @@
 import './App.css';
-import Egg from './components/Egg';
+import Cuib from './components/Cuib';
+import Oua from './components/Oua';
+
 
 function App() {
   return (
     <div className="App">
-    <Egg />
+    <Cuib />
+    <Oua />
     </div>
   );
 }
